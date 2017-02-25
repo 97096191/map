@@ -1,0 +1,8 @@
+在线地图配置文档
+1、地图基于leaflet制作
+2、底图使用
+http://cache1.arcgisonline.cn/ArcGIS/rest/services/ChinaOnlineStreetColor/MapServer/tile/{z}/{y}/{x}
+3、默认初始位置为天安门
+4、地图左上角为缩放按钮
+5、地图右上角为比例尺
+6、双击地图将会显示点击位置的经纬度，再次双击其他位置，将会连接两点并按顺序显示两点经纬度。
